@@ -1,3 +1,6 @@
+## just ex to improve  and rimind myself with   c# basic code 
+
+
 Regent Private Wealth is Winnipeg ‘s leading private wealth management company. Located in downtown Winnipeg, the company serves many wealthy individuals as well as mass affluent clients.
 
 The economics team is responsible for setting capital market expectations of various assets classes as well as forecasting various macroeconomic indicators. Interest rates are one of the primary indicators that the team predicts.
